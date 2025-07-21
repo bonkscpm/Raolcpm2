@@ -22,7 +22,7 @@ from rich.progress import track
 from pyfiglet import Figlet
 from random import randint
 import secrets
-from bonks import raol  # Your game logic class
+from bonks import Raol  # Your game logic class
 
 __CHANNEL_USERNAME__ = "BONKSCPM TERMUX CHANNEL"
 __GROUP_USERNAME__   = "BONKSCPM TERMUX GROUP"
