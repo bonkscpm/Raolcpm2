@@ -59,7 +59,7 @@ def gradient_text(text, colors):
 def banner(console):
     os.system('cls' if os.name == 'nt' else 'clear')
 
-    brand_name = "BonksCPM2Tool"
+    brand_name = "D.U.C.PCPM2Tool"
     padding = 6
     box_width = len(brand_name) + padding
     box_top = "╭" + "─" * box_width + "╮"
