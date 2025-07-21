@@ -175,7 +175,7 @@ def rainbow_gradient_string(customer_name):
 
 # Cool animated banner splash
 def animated_intro(console):
-    title = "[bold cyan]🚀 BonksCPM2 Tool[/bold cyan]"
+    title = "[bold cyan]🚀 D.U.C.PCPM2 Tool[/bold cyan]"
     subtitles = [
         "🔒 Secure. ⚙️ Powerful. 🎮 Game-On!",
         "👑 Powered by Bonks",
